@@ -21,13 +21,13 @@ O objetivo principal do **KarkovURL** é ocultar a verdadeira origem de uma URL,
 1. Clone o repositório do **TropaPhish**:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/jkenteni/KarkovURL.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-repositorio
+    cd KarkovURL
     ```
 
 3. Instale as dependências com o **pip**:
@@ -43,7 +43,7 @@ O objetivo principal do **KarkovURL** é ocultar a verdadeira origem de uma URL,
 1. Execute o script principal com o comando:
 
     ```bash
-    python3 script.py
+    python3 karkovurl.py
     ```
 
 2. Quando solicitado, insira a URL que você deseja mascarar.
